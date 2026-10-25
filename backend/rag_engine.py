@@ -1,6 +1,6 @@
 """
 RAG Backend — Proper Vector Database + Embeddings
-Author: Suresh D R | AI Product Developer & Technology Mentor
+Author: Suresh D R | AI Product Developer & Technology Mentor(From Google)
 
 This is REAL RAG:
 - ChromaDB                → vector database (stores embeddings locally)
@@ -219,6 +219,7 @@ Rules:
 - Do not add information not present in the context
 - Format numbers clearly with Rs prefix and lakh/crore units as in the source
 - Structure your answer clearly with bullet points when listing multiple items
+- Please give the answer with the realestic numbers
 
 CONTEXT FROM SALES REPORT:
 {context}""".format(context=context)
