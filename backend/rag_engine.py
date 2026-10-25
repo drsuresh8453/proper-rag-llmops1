@@ -1,5 +1,5 @@
 """
-RAG Backend — Proper Vector Database + Embeddings
+RAG Backend — Proper Vector Database + Embeddings + Cosine similarity
 Author: Suresh D R | AI Product Developer & Technology Mentor(From Google)
 
 This is REAL RAG:
